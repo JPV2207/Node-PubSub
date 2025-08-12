@@ -81,6 +81,7 @@ Client Bob disconnected.
 ## 📄 License
 
 MIT – free to use, share, or modify.
+
 ---
 
 ## ✨ Author
