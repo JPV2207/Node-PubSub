@@ -78,14 +78,11 @@ Client Bob disconnected.
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
+MIT – free to use, share, or modify.
 ---
 
 ## ✨ Author
 
 Made with ❤️ by [Jay Prakash Valecha](https://github.com/JPV2207)
-
----
