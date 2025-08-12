@@ -84,6 +84,10 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ```
 
+---
+
 ## ✨ Author
 
-Made with ❤️ by [Jay Prakash Valecha](https://github.com/JPV2207)
+Made with ❤️ by [Your Name](https://github.com/your-username)
+
+```
